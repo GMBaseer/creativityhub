@@ -86,7 +86,6 @@ function App() {
 
       </main>
       <footer className="w-full max-w-4xl text-center mt-6 text-gray-800/70 dark:text-gray-400/70">
-        <p>Powered by Gemini API</p>
       </footer>
       <AboutModal isOpen={isAboutModalOpen} onClose={() => setIsAboutModalOpen(false)} />
     </div>
