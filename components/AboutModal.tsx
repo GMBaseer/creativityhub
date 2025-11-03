@@ -31,7 +31,7 @@ const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
           <UserIcon />
         </div>
 
-        <h2 className="text-3xl font-black text-gray-800 dark:text-gray-100">About the Author</h2>
+        <h2 className="text-3xl font-black text-gray-800 dark:text-gray-100">Baseer Khan</h2>
         <p className="text-xl font-bold text-yellow-500 dark:text-yellow-400 mt-1">A Passionate Developer</p>
         
         <p className="text-gray-600 dark:text-gray-400 my-4">
